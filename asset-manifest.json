@@ -1,17 +1,17 @@
 {
-  "main.css": "/cafe-deploy/static/css/main.ff14343f.chunk.css",
-  "main.js": "/cafe-deploy/static/js/main.8b590d43.chunk.js",
-  "main.js.map": "/cafe-deploy/static/js/main.8b590d43.chunk.js.map",
+  "main.css": "/cafe-deploy/static/css/main.7ea7ec33.chunk.css",
+  "main.js": "/cafe-deploy/static/js/main.6cb926d8.chunk.js",
+  "main.js.map": "/cafe-deploy/static/js/main.6cb926d8.chunk.js.map",
   "runtime~main.js": "/cafe-deploy/static/js/runtime~main.b0d8aac8.js",
   "runtime~main.js.map": "/cafe-deploy/static/js/runtime~main.b0d8aac8.js.map",
   "static/css/2.eb34f160.chunk.css": "/cafe-deploy/static/css/2.eb34f160.chunk.css",
   "static/js/2.137b5b34.chunk.js": "/cafe-deploy/static/js/2.137b5b34.chunk.js",
   "static/js/2.137b5b34.chunk.js.map": "/cafe-deploy/static/js/2.137b5b34.chunk.js.map",
   "index.html": "/cafe-deploy/index.html",
-  "precache-manifest.c3bc165eb157bedd9218e91ef47b79f2.js": "/cafe-deploy/precache-manifest.c3bc165eb157bedd9218e91ef47b79f2.js",
+  "precache-manifest.a885d5fb3fc0af05d9922dd02d8665f9.js": "/cafe-deploy/precache-manifest.a885d5fb3fc0af05d9922dd02d8665f9.js",
   "service-worker.js": "/cafe-deploy/service-worker.js",
   "static/css/2.eb34f160.chunk.css.map": "/cafe-deploy/static/css/2.eb34f160.chunk.css.map",
-  "static/css/main.ff14343f.chunk.css.map": "/cafe-deploy/static/css/main.ff14343f.chunk.css.map",
+  "static/css/main.7ea7ec33.chunk.css.map": "/cafe-deploy/static/css/main.7ea7ec33.chunk.css.map",
   "static/media/human.svg": "/cafe-deploy/static/media/human.344fe5e1.svg",
   "static/media/tables.d146442b.svg": "/cafe-deploy/static/media/tables.d146442b.svg"
 }
