@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/cafe-deploy/static/js/runtime~main.b0d8aac8.js"
   },
   {
-    "revision": "6cb926d8d7a86d1a2ac9",
-    "url": "/cafe-deploy/static/js/main.6cb926d8.chunk.js"
+    "revision": "97aebfa142593e1b1dca",
+    "url": "/cafe-deploy/static/js/main.97aebfa1.chunk.js"
   },
   {
     "revision": "137b5b348cbb8e3718d4",
     "url": "/cafe-deploy/static/js/2.137b5b34.chunk.js"
   },
   {
-    "revision": "6cb926d8d7a86d1a2ac9",
+    "revision": "97aebfa142593e1b1dca",
     "url": "/cafe-deploy/static/css/main.7ea7ec33.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/cafe-deploy/static/css/2.eb34f160.chunk.css"
   },
   {
-    "revision": "9c2e40882b92ee49b2ebe120a8ef44a8",
+    "revision": "8fdf9454a3499e39268265cd0fabf0a5",
     "url": "/cafe-deploy/index.html"
   }
 ];
